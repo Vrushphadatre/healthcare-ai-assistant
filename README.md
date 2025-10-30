@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #  Healthcare AI Assistant (Falcon 3B)
 
 This project is an **AI-powered healthcare assistant** using the `Falcon-3B-Instruct` model.
@@ -27,3 +28,6 @@ git clone https://github.com/<your-username>/healthcare-ai-assistant.git
 cd healthcare-ai-assistant
 pip install -r requirements.txt
 python app.py
+=======
+# healthcare-ai-assistant
+>>>>>>> 032e5c34ae98265a5267324f9788ae47bea5119a
